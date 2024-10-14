@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+
+.item {
+    flex: 1 1 100px;
+    margin: 20px;
+}
